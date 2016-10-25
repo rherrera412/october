@@ -1,3 +1,2 @@
 # october
-month
-Ricky Whutever
+code2040 tech assessment
